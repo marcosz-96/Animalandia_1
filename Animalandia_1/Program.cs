@@ -11,7 +11,7 @@ namespace Animalandia_1
     public struct Productos
     {
         public string Nombre;
-        public char Categoria; //AE = areo, T = terrestre, AC = acuatico
+        public char Categoria;
         public int Stock;
         public double Precio;
         public bool Disponible;
